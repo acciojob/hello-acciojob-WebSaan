@@ -1,13 +1,11 @@
+  main.accio {
+      width: 150px;
+      height: 150px;
+      background-color: black;
+    }
 
-/* Your CSS Code here. */
-.main{
-    width:150px;
-    height:150px;
-    background-color: black;
-}
-
-.hello-accio{
-    color: #ffffff;
-    margin-left: 32px;
-    padding: 10px;
-}
+    p.hello-accio {
+      color: white;
+      margin-left: 32px;
+      padding: 10px;
+    }
